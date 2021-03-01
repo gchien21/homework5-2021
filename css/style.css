@@ -80,7 +80,6 @@ a:hover {
 /*Req 3b*/
 /*Write selector/rule property to position the skip class element*/
 .skip a:focus {
-  position: absolute;
   top:10px;
 }
 
@@ -187,7 +186,6 @@ header{
   /*Req 11*/
   .container{
     /*Your code here:*/
-    display: grid;
     grid-template-columns: 50px auto 500px auto 50px;
     grid-template-rows: 400px 425px 425px 400px;
   }
