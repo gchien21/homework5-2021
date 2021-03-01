@@ -138,8 +138,6 @@ header{
 /*Req 7b & 8d*/
 .about, .about-image{
    /*Your Code Here*/
-  grid-column-start: 2;
-  grid-column-end: span 2;
   grid-row-start: 1;
   grid-row-end: span 1;
 }
@@ -147,8 +145,6 @@ header{
 /*Req 7b & 8d*/
 .method, .method-image{
    /*Your Code Here*/
-  grid-column-start: 2;
-  grid-column-end: span 2;
   grid-row-start: 2;
   grid-row-end: span 1;
 }
@@ -156,8 +152,6 @@ header{
 /*Req 7b & 8d*/
 .client, .client-image{
     /*Your Code Here*/
-  grid-column-start: 2;
-  grid-column-end: span 2;
   grid-row-start: 3;
   grid-row-end: span 1;
 }
@@ -165,8 +159,6 @@ header{
 /*Req 7b & 8d*/
 .contacts, .contact-image{
     /*Your Code Here*/
-  grid-column-start: 2;
-  grid-column-end: span 2;
   grid-row-start: 4;
   grid-row-end: span 1;
 }
